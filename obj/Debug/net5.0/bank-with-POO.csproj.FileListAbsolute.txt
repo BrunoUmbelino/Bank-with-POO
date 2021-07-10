@@ -1,0 +1,16 @@
+D:\Projects\C#\bank-with-POO\bin\Debug\net5.0\bank-with-POO.exe
+D:\Projects\C#\bank-with-POO\bin\Debug\net5.0\bank-with-POO.deps.json
+D:\Projects\C#\bank-with-POO\bin\Debug\net5.0\bank-with-POO.runtimeconfig.json
+D:\Projects\C#\bank-with-POO\bin\Debug\net5.0\bank-with-POO.runtimeconfig.dev.json
+D:\Projects\C#\bank-with-POO\bin\Debug\net5.0\bank-with-POO.dll
+D:\Projects\C#\bank-with-POO\bin\Debug\net5.0\ref\bank-with-POO.dll
+D:\Projects\C#\bank-with-POO\bin\Debug\net5.0\bank-with-POO.pdb
+D:\Projects\C#\bank-with-POO\obj\Debug\net5.0\bank-with-POO.csproj.AssemblyReference.cache
+D:\Projects\C#\bank-with-POO\obj\Debug\net5.0\bank-with-POO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\bank-with-POO\obj\Debug\net5.0\bank-with-POO.AssemblyInfoInputs.cache
+D:\Projects\C#\bank-with-POO\obj\Debug\net5.0\bank-with-POO.AssemblyInfo.cs
+D:\Projects\C#\bank-with-POO\obj\Debug\net5.0\bank-with-POO.csproj.CoreCompileInputs.cache
+D:\Projects\C#\bank-with-POO\obj\Debug\net5.0\bank-with-POO.dll
+D:\Projects\C#\bank-with-POO\obj\Debug\net5.0\ref\bank-with-POO.dll
+D:\Projects\C#\bank-with-POO\obj\Debug\net5.0\bank-with-POO.pdb
+D:\Projects\C#\bank-with-POO\obj\Debug\net5.0\bank-with-POO.genruntimeconfig.cache
