@@ -3,13 +3,20 @@ using classes;
 
 namespace bank_with_POO
 {
-  class Program
-  {
-    static void Main(string[] args)
-    {
-      var account = new BankAccount("facelessvoid", 1000);
-      System.Console.WriteLine($"Account {account.Number} was created for {account.Owner} with {account.Balance} initial balance.");
-    }
-  }
+	class Program
+	{
+		static void Main(string[] args)
+		{
+			var account = new BankAccount("facelessvoid", 1000);
+			System.Console.WriteLine($"Account {account.Number} was created for {account.Owner} with {account.Balance} initial balance.");
+
+			account.MakeWithdrawal(500, DateTime.Now, "Rent payment");
+			Console.WriteLine(account.Balance);
+			account.MakeDeposit(100, DateTime.Now, "Friend paid me back");
+			System.Console.WriteLine(account.Balance);
+
+			Console.WriteLine(account.GetAccountHistory());
+		}
+	}
 }
 
