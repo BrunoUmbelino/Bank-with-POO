@@ -4,9 +4,7 @@ namespace classes
 {
   public class InterestEarningAccount : BankAccount
   {
-    public InterestEarningAccount(string name, decimal initialBalance) : base(name, initialBalance)
-    {
-    }
+    public InterestEarningAccount(string name, decimal initialBalance) : base(name, initialBalance) { }
 
     public override void PerformMonthEndTransactions()
     {
@@ -16,5 +14,7 @@ namespace classes
         MakeDeposit(interest, DateTime.Now, "apply monthly interest");
       }
     }
+
+
   }
 }
